@@ -16,4 +16,8 @@ public class Box<T> {
     void printBox() {
         System.out.println(obj.toString());
     }
+
+    static void printBox(Box<? extends Number> box) {
+        System.out.println(box.getObj());
+    }
 }
