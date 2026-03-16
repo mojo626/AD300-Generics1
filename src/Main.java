@@ -1,6 +1,6 @@
-import LIbrary.Book;
-import LIbrary.Library;
-import LIbrary.Movie;
+import Library.Book;
+import Library.Library;
+import Library.Movie;
 
 class Main {
     public static void main(String[] args) {

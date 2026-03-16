@@ -1,4 +1,4 @@
-package LIbrary;
+package Library;
 public class LibraryItem {
     String name;
     int id;

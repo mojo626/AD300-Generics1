@@ -1,4 +1,4 @@
-package LIbrary;
+package Library;
 
 public class Movie extends LibraryItem {
     int year;

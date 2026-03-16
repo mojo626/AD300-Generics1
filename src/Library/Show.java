@@ -1,4 +1,4 @@
-package LIbrary;
+package Library;
 
 public class Show extends LibraryItem {
     String director;
